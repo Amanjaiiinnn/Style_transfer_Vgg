@@ -1,3 +1,4 @@
+python-3.11.9
 Flask==3.1.2
 Flask_Bootstrap==3.3.7.1
 flask_wtf==1.2.2
