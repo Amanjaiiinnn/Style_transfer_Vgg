@@ -49,10 +49,8 @@ NST/
 
 
 
-App needs these two model files:
+## App needs these two model files:
  
 weights/vgg_normalised.pth
-
-
 
 weights/decoder_final.pth
