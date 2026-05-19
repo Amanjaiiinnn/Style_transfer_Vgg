@@ -6,8 +6,8 @@ Hugging Face Space:
 ## This project applies Neural Style Transfer using the AdaIN method.
 It takes two images:
 
-1- Content Image
-2- Style Image
+- Content Image
+- Style Image
 
 and generates a new image where the content image is redrawn in the style of the style image.
 
