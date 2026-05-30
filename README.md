@@ -3,6 +3,8 @@
 Hugging Face Space:  
 `https://huggingface.co/spaces/Amanprime/NST`
 
+[Try the App](https://huggingface.co/spaces/Amanprime/NST)
+
 ## This project applies Neural Style Transfer using the AdaIN method.
 It takes two images:
 
